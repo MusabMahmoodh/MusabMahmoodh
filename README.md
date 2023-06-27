@@ -1,4 +1,4 @@
-<img align="center" src="https://res.cloudinary.com/musabcloud/image/upload/v1622883554/ptbx7csom8hqcpaujm3y.png" alt="banner"  width="100%"/>
+
 
 ### Hi there, I'm Musab Mamoodh 👋
 
