@@ -1,69 +1,51 @@
 # Hey, I'm Musab Mahmoodh 👋
 
-I enjoy building products, simplifying complex ideas, and helping people grow through technology.
+**I build and run AI systems in production** — from RAG pipelines and agentic apps to the Kubernetes infrastructure they deploy on.
 
-Currently exploring the intersection of software engineering, AI, and human-centered systems while continuously learning and sharing what I discover along the way.
-
----
-
-### What keeps me busy
-
-- 🚀 Building web, mobile, and AI-powered applications
-- 🧩 Designing systems that are simple, scalable, and maintainable
-- 📚 Writing about engineering and learning strategies
-- 🤝 Collaborating with people who love solving difficult problems
-- 🌱 Learning something new every single day
+Currently **Lead Software Engineer at Jaseci Labs**, working on the open-source [Jac language ecosystem](https://github.com/jaseci-labs/jaseci) — **112 merged PRs** and counting ([see them here](https://github.com/jaseci-labs/jaseci/pulls?q=is%3Apr+author%3AMusabMahmoodh+is%3Amerged)).
 
 ---
 
-### Things I care about
+### 🔭 What I've built
 
-```txt
-Code Quality     •     Developer Experience
-Systems Thinking •     Continuous Learning
-Knowledge Sharing •     Simplicity
-```
+**[jac-scale](https://github.com/jaseci-labs/jaseci)** — architect of the production backend powering Jac's cloud-native story:
+- Kubernetes microservice deployment plane with zero-config deploys and prebuilt-binary pod runtimes
+- Full observability stack: distributed tracing (OpenTelemetry → Tempo), structured logging (Loki + Alloy), in-admin ops console with flame graphs
+- Tiered memory hierarchy (Redis L2 + MongoDB L3), microservice API gateway, auto-routed client stubs
 
----
+**[jac-client](https://github.com/jaseci-labs/jaseci)** — technical lead of the frontend toolchain:
+- One codebase → web, PWA, mobile (Expo), and desktop targets
+- TypeScript support, HMR dev mode, storage abstraction
 
-### Technologies I work with
+**AI products** (Jaseci Labs):
+- 🦷 *SmilePilot* — agentic application for dental clinics across the US
+- 📄 *Einstein* — RAG system automating patent drafting
+- 📱 *Tobu* — AI-powered memories mobile app (React Native)
 
-**Languages**
-
-Java • TypeScript • JavaScript • Python
-
-**Frontend**
-
-React • Next.js • React Native • Redux • HTML • CSS • SASS
-
-**Backend**
-
-Node.js • Express • Spring Boot • Django • GraphQL • REST APIs
-
-**Data & Infrastructure**
-
-PostgreSQL • MongoDB • MySQL • Redis • Docker • Kubernetes • Linux • Git
-
-**AI & Emerging Tech**
-
-TensorFlow • AI Applications • Developer Tooling
+Before this: shipped an invoice-parsing system that cut manual processing ~95%, and halved a production app's bundle size (−20% load time) at Estabild (Stockholm).
 
 ---
 
-### Outside of engineering
+### 🛠 Technologies I work with
 
-💪 Fitness  
-🥋 Martial Arts  
-🧠 Psychology  
-🌿 Nature & Hiking  
-🎤 Teaching & Public Speaking
+**AI & Systems** — RAG pipelines · Agentic architectures · LLM integration · OpenTelemetry · Prometheus · Kubernetes · Docker
+
+**Languages** — TypeScript · JavaScript · Python · Java · Jac
+
+**Frontend** — React · Next.js · React Native · Redux
+
+**Backend** — Node.js · Express · Spring Boot · REST APIs · GraphQL
+
+**Data** — PostgreSQL · MongoDB · MySQL · Redis · DynamoDB · Firestore
 
 ---
+
+### 🌱 Outside of engineering
+
+💪 Fitness · 🥋 Martial arts · 🧠 Psychology · 🌿 Hiking · 🎤 Teaching & public speaking
 
 > Build things. Stay curious. Share what you learn.
 
 ### Connect
 
-[LinkedIn](https://www.linkedin.com/in/musab-mahmood/)
-•
-[YouTube](https://youtube.com/channel/UC9cBzrB9UMIYB5eKzl2dkXA)
+[LinkedIn](https://www.linkedin.com/in/musab-mahmood/) · [YouTube](https://youtube.com/channel/UC9cBzrB9UMIYB5eKzl2dkXA)
