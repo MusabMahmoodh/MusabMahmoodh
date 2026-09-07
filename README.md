@@ -2,8 +2,7 @@
 
 **I build and run AI systems in production** — from RAG pipelines and agentic apps to the Kubernetes infrastructure they deploy on.
 
-Currently **Lead Software Engineer at Jaseci Labs**, working on the open-source [Jac language ecosystem](https://github.com/jaseci-labs/jaseci) — **112 merged PRs** and counting ([see them here](https://github.com/jaseci-labs/jaseci/pulls?q=is%3Apr+author%3AMusabMahmoodh+is%3Amerged)).
-
+Currently **Lead Software Engineer at Jaseci Labs**, working on the open-source [Jac language ecosystem](https://github.com/jaseci-labs/jaseci) 
 ---
 
 ### 🔭 What I've built
